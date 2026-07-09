@@ -60,6 +60,29 @@
     });
   }
 
+  function getFieldValue(form, name) {
+    var field = form.querySelector("[name='" + name + "']");
+    return field ? field.value.trim() : "";
+  }
+
+  function buildMailtoUrl(form) {
+    var recipient = form.getAttribute("data-contact-email") || "umarfarooqapp.dev@gmail.com";
+    var name = getFieldValue(form, "name");
+    var email = getFieldValue(form, "email");
+    var subject = getFieldValue(form, "subject") || "Portfolio contact message";
+    var message = getFieldValue(form, "message");
+    var body = [
+      message,
+      "",
+      "From: " + name,
+      "Email: " + email,
+    ].join("\n");
+
+    return "mailto:" + encodeURIComponent(recipient) +
+      "?subject=" + encodeURIComponent(subject) +
+      "&body=" + encodeURIComponent(body);
+  }
+
   ready(function () {
     var forms = Array.from(document.querySelectorAll("[data-contact-form]"));
 
@@ -103,12 +126,17 @@
 
         if (submitButton) {
           submitButton.disabled = true;
-          submitButton.textContent = "Sending...";
+          submitButton.textContent = "Opening email...";
         }
 
-        setStatus(status, "Sending your message to Umar...", "success");
+        setStatus(status, "Opening your email app with the message ready to send.", "success");
         window.setTimeout(function () {
-          form.submit();
+          window.location.href = buildMailtoUrl(form);
+
+          if (submitButton) {
+            submitButton.disabled = false;
+            submitButton.textContent = defaultButtonText;
+          }
         }, 150);
       });
     });
