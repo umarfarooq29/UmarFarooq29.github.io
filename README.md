@@ -54,7 +54,7 @@ Before deploying:
 
 1. Replace `https://umarfarooq.example.com/` with your real domain in `index.html`, `robots.txt`, and `sitemap.xml`.
 2. Replace placeholder education and experience entries in `data/education.json` and `data/experience.json`.
-3. Replace the placeholder CV at `assets/documents/Umar_Farooq_CV.pdf` with your final resume.
+3. Keep the downloadable CV current at `assets/documents/Umar_Farooq_Complete_CV.pdf`.
 4. Upload the full project folder to your static hosting provider.
 
 ## Final Checks
