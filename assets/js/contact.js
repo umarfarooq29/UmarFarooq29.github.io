@@ -65,7 +65,7 @@
 
     forms.forEach(function (form) {
       var status = getStatus(form);
-      var fields = Array.from(form.querySelectorAll("input, textarea"));
+      var fields = Array.from(form.querySelectorAll("input:not([type='hidden']), textarea"));
       var submitButton = form.querySelector('[type="submit"]');
       var defaultButtonText = submitButton ? submitButton.textContent : "";
 
@@ -103,17 +103,13 @@
 
         if (submitButton) {
           submitButton.disabled = true;
-          submitButton.textContent = "Checking...";
+          submitButton.textContent = "Sending...";
         }
 
+        setStatus(status, "Sending your message to Umar...", "success");
         window.setTimeout(function () {
-          setStatus(status, "Your message looks ready. Connect this form to an email service or backend to send it live.", "success");
-
-          if (submitButton) {
-            submitButton.disabled = false;
-            submitButton.textContent = defaultButtonText;
-          }
-        }, 450);
+          form.submit();
+        }, 150);
       });
     });
   });
