@@ -1,0 +1,82 @@
+[
+  {
+    "id": "data-analytics-projects",
+    "role": "Data Analyst",
+    "organization": "Portfolio and Academic Projects",
+    "location": "Remote",
+    "period": "Add dates",
+    "type": "Project-based",
+    "isPlaceholder": true,
+    "summary": "Applied data analysis workflows to clean datasets, explore patterns, and communicate findings through visuals and concise reporting.",
+    "responsibilities": [
+      "Cleaned and structured raw datasets for analysis.",
+      "Created summaries, charts, and KPI views for easier interpretation.",
+      "Used statistical thinking to compare patterns and explain results.",
+      "Prepared clear written summaries for non-technical readers."
+    ],
+    "tools": [
+      "Python",
+      "Pandas",
+      "Excel",
+      "SQL",
+      "Power BI"
+    ],
+    "highlights": [
+      "Built analysis workflows from raw data to final insight.",
+      "Focused on clarity, accuracy, and practical decision support."
+    ]
+  },
+  {
+    "id": "statistics-research-support",
+    "role": "Statistician",
+    "organization": "Research and Learning Projects",
+    "location": "Add location",
+    "period": "Add dates",
+    "type": "Research support",
+    "isPlaceholder": true,
+    "summary": "Supported research-style work through descriptive statistics, hypothesis testing, and structured interpretation of results.",
+    "responsibilities": [
+      "Reviewed research questions and selected suitable statistical methods.",
+      "Prepared descriptive summaries and comparison tables.",
+      "Checked assumptions before interpreting statistical results.",
+      "Presented findings in a direct and understandable format."
+    ],
+    "tools": [
+      "Statistics",
+      "Excel",
+      "Python",
+      "Data Visualization"
+    ],
+    "highlights": [
+      "Connected statistical methods with practical explanations.",
+      "Kept results transparent and easy to verify."
+    ]
+  },
+  {
+    "id": "flutter-development-projects",
+    "role": "Flutter Developer",
+    "organization": "Mobile App Projects",
+    "location": "Remote",
+    "period": "Add dates",
+    "type": "Project-based",
+    "isPlaceholder": true,
+    "summary": "Designed and developed responsive mobile app interfaces using Flutter and Dart, with attention to layout, usability, and clean component structure.",
+    "responsibilities": [
+      "Created reusable Flutter widgets for consistent UI patterns.",
+      "Built responsive screens for different mobile viewport sizes.",
+      "Integrated app flows with APIs or Firebase-ready structures.",
+      "Improved spacing, hierarchy, and accessibility in app screens."
+    ],
+    "tools": [
+      "Flutter",
+      "Dart",
+      "Firebase",
+      "REST APIs",
+      "Git"
+    ],
+    "highlights": [
+      "Balanced visual polish with maintainable app structure.",
+      "Focused on smooth, simple user journeys."
+    ]
+  }
+]

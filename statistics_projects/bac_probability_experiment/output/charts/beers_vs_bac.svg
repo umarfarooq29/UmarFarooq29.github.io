@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" role="img" aria-label="Beers Consumed and BAC">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#eef2ff"/>
+<stop offset="0.55" stop-color="#f0f9ff"/>
+<stop offset="1" stop-color="#dcfce7"/>
+</linearGradient>
+</defs>
+<rect width="1200" height="750" rx="42" fill="url(#bg)"/>
+<rect x="58" y="54" width="1084" height="642" rx="34" fill="#ffffff" opacity="0.92"/>
+<text x="100.0" y="72.0" text-anchor="start" fill="#0f172a" font-family="Arial, sans-serif" font-size="34" font-weight="800">Beers Consumed and BAC</text>
+<text x="100.0" y="108.0" text-anchor="start" fill="#475569" font-family="Arial, sans-serif" font-size="22" font-weight="500">Number of beers vs Blood alcohol content</text>
+<line x1="120" y1="630" x2="1120" y2="630" stroke="#cbd5e1" stroke-width="3"/>
+<line x1="120" y1="110" x2="120" y2="630" stroke="#cbd5e1" stroke-width="3"/>
+<line x1="165.5" y1="605.9" x2="1074.5" y2="248.0" stroke="#ef4444" stroke-width="6" stroke-linecap="round"/>
+<circle cx="620.0" cy="370.0" r="8" fill="#2563eb" opacity="0.68"/>
+<circle cx="279.1" cy="544.3" r="8" fill="#2563eb" opacity="0.68"/>
+<circle cx="1074.5" cy="145.9" r="8" fill="#2563eb" opacity="0.68"/>
+<circle cx="960.9" cy="320.2" r="8" fill="#2563eb" opacity="0.68"/>
+<circle cx="392.7" cy="519.4" r="8" fill="#2563eb" opacity="0.68"/>
+<circle cx="847.3" cy="382.5" r="8" fill="#2563eb" opacity="0.68"/>
+<circle cx="392.7" cy="444.7" r="8" fill="#2563eb" opacity="0.68"/>
+<circle cx="620.0" cy="469.6" r="8" fill="#2563eb" opacity="0.68"/>
+<circle cx="392.7" cy="569.2" r="8" fill="#2563eb" opacity="0.68"/>
+<circle cx="620.0" cy="494.5" r="8" fill="#2563eb" opacity="0.68"/>
+<circle cx="506.4" cy="444.7" r="8" fill="#2563eb" opacity="0.68"/>
+<circle cx="733.6" cy="370.0" r="8" fill="#2563eb" opacity="0.68"/>
+<circle cx="620.0" cy="407.4" r="8" fill="#2563eb" opacity="0.68"/>
+<circle cx="847.3" cy="394.9" r="8" fill="#2563eb" opacity="0.68"/>
+<circle cx="165.5" cy="594.1" r="8" fill="#2563eb" opacity="0.68"/>
+<circle cx="506.4" cy="494.5" r="8" fill="#2563eb" opacity="0.68"/>
+<text x="600.0" y="706.0" text-anchor="middle" fill="#0f172a" font-family="Arial, sans-serif" font-size="28" font-weight="700">Number of beers</text>
+<text x="42.0" y="375.0" text-anchor="middle" fill="#0f172a" font-family="Arial, sans-serif" font-size="26" font-weight="700" transform="rotate(-90 42.0 375.0)">Blood alcohol content</text>
+</svg>

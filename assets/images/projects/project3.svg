@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" role="img" aria-labelledby="title desc">
+  <title id="title">Flutter app preview</title>
+  <desc id="desc">Mobile app screens with charts and clean interface components.</desc>
+  <defs>
+    <linearGradient id="bg" x1="120" y1="50" x2="1080" y2="700" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ecfeff"/>
+      <stop offset="1" stop-color="#eff6ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="750" rx="48" fill="url(#bg)"/>
+  <rect x="248" y="78" width="260" height="594" rx="54" fill="#0f172a"/>
+  <rect x="278" y="126" width="200" height="496" rx="30" fill="#ffffff"/>
+  <rect x="692" y="78" width="260" height="594" rx="54" fill="#0f172a"/>
+  <rect x="722" y="126" width="200" height="496" rx="30" fill="#ffffff"/>
+  <rect x="310" y="174" width="136" height="26" rx="13" fill="#2563eb"/>
+  <rect x="310" y="244" width="136" height="106" rx="24" fill="#e0f2fe"/>
+  <path d="M334 320l42-38 34 22 38-52" fill="none" stroke="#14b8a6" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="310" y="398" width="136" height="28" rx="14" fill="#cbd5e1"/>
+  <rect x="310" y="450" width="96" height="28" rx="14" fill="#cbd5e1"/>
+  <circle cx="822" cy="270" r="76" fill="#0ea5e9" opacity="0.18"/>
+  <path d="M778 286c24 32 62 32 88 0" fill="none" stroke="#2563eb" stroke-width="16" stroke-linecap="round"/>
+  <rect x="754" y="398" width="136" height="28" rx="14" fill="#cbd5e1"/>
+  <rect x="754" y="450" width="112" height="28" rx="14" fill="#cbd5e1"/>
+</svg>

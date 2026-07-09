@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" role="img" aria-label="Final Grade Distribution">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#eef2ff"/>
+<stop offset="0.55" stop-color="#f0f9ff"/>
+<stop offset="1" stop-color="#dcfce7"/>
+</linearGradient>
+</defs>
+<rect width="1200" height="750" rx="42" fill="url(#bg)"/>
+<rect x="58" y="54" width="1084" height="642" rx="34" fill="#ffffff" opacity="0.92"/>
+<text x="100.0" y="72.0" text-anchor="start" fill="#0f172a" font-family="Arial, sans-serif" font-size="34" font-weight="800">Final Grade Distribution</text>
+<text x="100.0" y="108.0" text-anchor="start" fill="#475569" font-family="Arial, sans-serif" font-size="22" font-weight="500">Final grade (0-20)</text>
+<line x1="110" y1="630" x2="1130" y2="630" stroke="#cbd5e1" stroke-width="3"/>
+<line x1="110" y1="110" x2="110" y2="630" stroke="#cbd5e1" stroke-width="3"/>
+<rect x="114.0" y="582.7" width="84.7" height="47.3" rx="10" fill="#2563eb"/>
+<text x="114.0" y="664.0" text-anchor="start" fill="#475569" font-family="Arial, sans-serif" font-size="24" font-weight="500">0.0</text>
+<rect x="206.7" y="630.0" width="84.7" height="0.0" rx="10" fill="#2563eb"/>
+<rect x="299.5" y="627.0" width="84.7" height="3.0" rx="10" fill="#2563eb"/>
+<rect x="392.2" y="621.1" width="84.7" height="8.9" rx="10" fill="#2563eb"/>
+<rect x="484.9" y="497.0" width="84.7" height="133.0" rx="10" fill="#2563eb"/>
+<rect x="577.6" y="240.0" width="84.7" height="390.0" rx="10" fill="#2563eb"/>
+<rect x="670.4" y="110.0" width="84.7" height="520.0" rx="10" fill="#2563eb"/>
+<rect x="763.1" y="387.7" width="84.7" height="242.3" rx="10" fill="#2563eb"/>
+<rect x="855.8" y="299.1" width="84.7" height="330.9" rx="10" fill="#2563eb"/>
+<rect x="948.5" y="438.0" width="84.7" height="192.0" rx="10" fill="#2563eb"/>
+<rect x="1041.3" y="579.8" width="84.7" height="50.2" rx="10" fill="#2563eb"/>
+<text x="1041.3" y="664.0" text-anchor="start" fill="#475569" font-family="Arial, sans-serif" font-size="24" font-weight="500">17.27</text>
+<text x="600.0" y="706.0" text-anchor="middle" fill="#0f172a" font-family="Arial, sans-serif" font-size="28" font-weight="700">Final grade (0-20)</text>
+</svg>

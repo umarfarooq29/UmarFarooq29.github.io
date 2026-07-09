@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" role="img" aria-labelledby="title desc">
+  <title id="title">Statistical analysis preview</title>
+  <desc id="desc">Statistical charts, data points, and report panels.</desc>
+  <defs>
+    <linearGradient id="bg" x1="90" y1="70" x2="1100" y2="690" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#eef2ff"/>
+      <stop offset="0.5" stop-color="#f0f9ff"/>
+      <stop offset="1" stop-color="#dcfce7"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="750" rx="48" fill="url(#bg)"/>
+  <rect x="96" y="92" width="1008" height="566" rx="40" fill="#ffffff" opacity="0.88"/>
+  <rect x="150" y="150" width="320" height="448" rx="30" fill="#f8fafc"/>
+  <rect x="536" y="150" width="510" height="206" rx="30" fill="#f8fafc"/>
+  <rect x="536" y="392" width="510" height="206" rx="30" fill="#f8fafc"/>
+  <circle cx="255" cy="280" r="18" fill="#2563eb"/>
+  <circle cx="308" cy="386" r="18" fill="#0ea5e9"/>
+  <circle cx="384" cy="324" r="18" fill="#14b8a6"/>
+  <circle cx="238" cy="478" r="18" fill="#0ea5e9"/>
+  <circle cx="388" cy="506" r="18" fill="#2563eb"/>
+  <path d="M190 538c82-194 170-278 238-292" fill="none" stroke="#14b8a6" stroke-width="16" stroke-linecap="round"/>
+  <path d="M594 286h382M594 220h270M594 506h360M594 452h230" stroke="#2563eb" stroke-width="18" stroke-linecap="round" opacity="0.55"/>
+</svg>

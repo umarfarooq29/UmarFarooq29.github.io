@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Umar Farooq portfolio icon</title>
+  <desc id="desc">Blue and teal monogram icon with the letters UF.</desc>
+  <defs>
+    <linearGradient id="bg" x1="72" y1="56" x2="438" y2="462" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2563eb"/>
+      <stop offset="0.52" stop-color="#0ea5e9"/>
+      <stop offset="1" stop-color="#14b8a6"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="116" fill="url(#bg)"/>
+  <path d="M124 138h62v142c0 32 18 52 52 52s52-20 52-52V138h62v146c0 68-45 108-114 108s-114-40-114-108V138Z" fill="#fff"/>
+  <path d="M290 138h112v54h-52v42h48v52h-48v98h-60V138Z" fill="#dff7ff"/>
+</svg>

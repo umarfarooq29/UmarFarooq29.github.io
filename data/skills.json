@@ -1,0 +1,148 @@
+[
+  {
+    "category": "Statistics",
+    "summary": "Strong statistical thinking for research, reporting, and decision support.",
+    "items": [
+      {
+        "name": "Descriptive Statistics",
+        "level": 94
+      },
+      {
+        "name": "Inferential Statistics",
+        "level": 88
+      },
+      {
+        "name": "Hypothesis Testing",
+        "level": 86
+      },
+      {
+        "name": "Regression Analysis",
+        "level": 84
+      },
+      {
+        "name": "Probability",
+        "level": 82
+      },
+      {
+        "name": "Research Methods",
+        "level": 80
+      }
+    ]
+  },
+  {
+    "category": "Data Analysis",
+    "summary": "Clean analysis workflows that turn raw data into readable insights.",
+    "items": [
+      {
+        "name": "Python",
+        "level": 88
+      },
+      {
+        "name": "SQL",
+        "level": 84
+      },
+      {
+        "name": "Excel",
+        "level": 90
+      },
+      {
+        "name": "Power BI",
+        "level": 82
+      },
+      {
+        "name": "Tableau",
+        "level": 78
+      },
+      {
+        "name": "Data Cleaning",
+        "level": 90
+      },
+      {
+        "name": "Dashboard Design",
+        "level": 84
+      }
+    ]
+  },
+  {
+    "category": "Data Science",
+    "summary": "Applied modeling and exploratory analysis for practical prediction and explanation.",
+    "items": [
+      {
+        "name": "Machine Learning",
+        "level": 80
+      },
+      {
+        "name": "Exploratory Data Analysis",
+        "level": 88
+      },
+      {
+        "name": "Pandas",
+        "level": 86
+      },
+      {
+        "name": "NumPy",
+        "level": 82
+      },
+      {
+        "name": "Model Evaluation",
+        "level": 78
+      },
+      {
+        "name": "Forecasting",
+        "level": 76
+      }
+    ]
+  },
+  {
+    "category": "Flutter Development",
+    "summary": "Responsive mobile interfaces with clean structure and smooth user flows.",
+    "items": [
+      {
+        "name": "Flutter",
+        "level": 84
+      },
+      {
+        "name": "Dart",
+        "level": 80
+      },
+      {
+        "name": "Firebase",
+        "level": 76
+      },
+      {
+        "name": "REST APIs",
+        "level": 78
+      },
+      {
+        "name": "Responsive UI",
+        "level": 88
+      },
+      {
+        "name": "Git",
+        "level": 82
+      }
+    ]
+  },
+  {
+    "category": "UX and Tools",
+    "summary": "User-focused design skills for planning clean interfaces before development.",
+    "items": [
+      {
+        "name": "UX Design",
+        "level": 76
+      },
+      {
+        "name": "Wireframing",
+        "level": 74
+      },
+      {
+        "name": "Software Tools",
+        "level": 80
+      },
+      {
+        "name": "User Flow Planning",
+        "level": 72
+      }
+    ]
+  }
+]

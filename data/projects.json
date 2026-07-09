@@ -1,0 +1,282 @@
+[
+  {
+    "id": "retail-sales-analytics-dashboard",
+    "title": "Retail Sales Analytics Dashboard",
+    "category": "Data Analysis",
+    "status": "Git-ready portfolio project",
+    "featured": true,
+    "image": "github_projects/data-analysis-retail-dashboard/assets/retail_dashboard_preview.svg",
+    "alt": "Retail sales analytics dashboard preview",
+    "description": "A complete retail analytics workflow using Python, SQL, Excel-compatible exports, and Power BI/Tableau-ready dashboard files.",
+    "problem": "Business order data needs to be cleaned, modeled, and exported into formats that decision makers can review quickly.",
+    "solution": "Generated a reproducible pipeline that cleans raw orders, builds SQLite tables, writes BI-ready CSV exports, creates an Excel workbook XML, and produces a dashboard preview.",
+    "impact": "Shows practical data analysis delivery from raw data to dashboard assets and stakeholder-friendly reporting.",
+    "technologies": [
+      "Python",
+      "SQL",
+      "Excel",
+      "Power BI",
+      "Tableau",
+      "Data Cleaning",
+      "Dashboard Design"
+    ],
+    "metrics": [
+      {
+        "label": "Output",
+        "value": "Dashboard exports"
+      },
+      {
+        "label": "Repo",
+        "value": "Separate git project"
+      }
+    ],
+    "links": {
+      "demo": "github_projects/data-analysis-retail-dashboard/output/report.md",
+      "github": "github_projects/data-analysis-retail-dashboard/src/retail_dashboard_pipeline.py"
+    }
+  },
+  {
+    "id": "customer-churn-ml-forecasting",
+    "title": "Customer Churn ML Forecasting",
+    "category": "Data Science",
+    "status": "Git-ready portfolio project",
+    "featured": true,
+    "image": "github_projects/data-science-churn-forecasting/assets/churn_forecasting_preview.svg",
+    "alt": "Customer churn machine learning and forecasting preview",
+    "description": "A data science project that creates a churn dataset, performs EDA, trains a churn model, evaluates performance, and forecasts churn volume.",
+    "problem": "Retention teams need to know which customers are at risk and how much churn to expect in the next few months.",
+    "solution": "Built a churn scoring workflow with feature engineering, model evaluation metrics, risk bands, and a six-month forecast output.",
+    "impact": "Demonstrates machine learning, exploratory analysis, model evaluation, and forecasting in a practical business case.",
+    "technologies": [
+      "Machine Learning",
+      "Exploratory Data Analysis",
+      "Pandas",
+      "NumPy",
+      "Model Evaluation",
+      "Forecasting"
+    ],
+    "metrics": [
+      {
+        "label": "Output",
+        "value": "Churn scores"
+      },
+      {
+        "label": "Repo",
+        "value": "Separate git project"
+      }
+    ],
+    "links": {
+      "demo": "github_projects/data-science-churn-forecasting/output/model_evaluation.md",
+      "github": "github_projects/data-science-churn-forecasting/src/churn_modeling_forecasting.py"
+    }
+  },
+  {
+    "id": "taskflow-flutter-firebase-app",
+    "title": "TaskFlow Flutter Firebase App",
+    "category": "Flutter Development",
+    "status": "Git-ready portfolio project",
+    "featured": true,
+    "image": "github_projects/flutter-firebase-taskflow/assets/taskflow_preview.svg",
+    "alt": "TaskFlow Flutter Firebase app preview",
+    "description": "A Flutter app foundation with Firebase sync, REST API loading, responsive UI layouts, Dart models, and Git-ready project structure.",
+    "problem": "A strong mobile portfolio needs more than a mockup; it needs real app architecture, service layers, and responsive screens.",
+    "solution": "Created a Flutter Material 3 app with Firebase repository code, REST API service code, task models, responsive layout, and setup documentation.",
+    "impact": "Shows practical Flutter development skills in a project that can be configured and extended into a production app.",
+    "technologies": [
+      "Flutter",
+      "Dart",
+      "Firebase",
+      "REST APIs",
+      "Responsive UI",
+      "Git"
+    ],
+    "metrics": [
+      {
+        "label": "Output",
+        "value": "Flutter app source"
+      },
+      {
+        "label": "Repo",
+        "value": "Separate git project"
+      }
+    ],
+    "links": {
+      "demo": "github_projects/flutter-firebase-taskflow/README.md",
+      "github": "github_projects/flutter-firebase-taskflow/lib/main.dart"
+    }
+  },
+  {
+    "id": "student-performance-research-study",
+    "title": "Student Performance Research Study",
+    "category": "Statistics",
+    "status": "Reproducible case study",
+    "featured": true,
+    "image": "statistics_projects/student_performance_study/output/charts/final_grade_distribution.svg",
+    "alt": "Student final grade distribution chart",
+    "description": "A research-style analysis of UCI student performance data using descriptive statistics, inference, hypothesis testing, regression, probability, and research methods.",
+    "problem": "Student achievement data needs careful analysis to identify reliable academic signals without overclaiming causality.",
+    "solution": "Downloaded the public UCI dataset, summarized key variables, built bootstrap intervals, tested internet-access group differences, modeled final grades, and reported conditional probabilities.",
+    "impact": "Shows a complete statistics workflow from research question to reproducible report and portfolio-ready charts.",
+    "technologies": [
+      "Python",
+      "Descriptive Statistics",
+      "Inferential Statistics",
+      "Hypothesis Testing",
+      "Regression Analysis",
+      "Probability",
+      "Research Methods"
+    ],
+    "metrics": [
+      {
+        "label": "Dataset",
+        "value": "649 students"
+      },
+      {
+        "label": "Model R2",
+        "value": "0.851"
+      }
+    ],
+    "links": {
+      "demo": "statistics_projects/student_performance_study/output/report.md",
+      "github": "statistics_projects/student_performance_study/analyze.py"
+    }
+  },
+  {
+    "id": "auto-mpg-regression-analysis",
+    "title": "Auto MPG Regression Analysis",
+    "category": "Statistics",
+    "status": "Reproducible case study",
+    "featured": true,
+    "image": "statistics_projects/auto_mpg_regression/output/charts/weight_vs_mpg.svg",
+    "alt": "Vehicle weight versus MPG regression chart",
+    "description": "A fuel-efficiency study using UCI Auto MPG data to explain MPG with vehicle specifications, model year, and origin.",
+    "problem": "Historical vehicle data contains overlapping signals, making it important to separate descriptive patterns from modeled associations.",
+    "solution": "Prepared the dataset, handled missing horsepower values, compared origin groups with a permutation test, and built an interpretable multiple regression model.",
+    "impact": "Demonstrates regression interpretation, conditional probability, and careful statistical reporting on a familiar real-world dataset.",
+    "technologies": [
+      "Python",
+      "Regression Analysis",
+      "Inferential Statistics",
+      "Hypothesis Testing",
+      "Probability",
+      "Research Methods"
+    ],
+    "metrics": [
+      {
+        "label": "Dataset",
+        "value": "398 vehicles"
+      },
+      {
+        "label": "Model R2",
+        "value": "0.820"
+      }
+    ],
+    "links": {
+      "demo": "statistics_projects/auto_mpg_regression/output/report.md",
+      "github": "statistics_projects/auto_mpg_regression/analyze.py"
+    }
+  },
+  {
+    "id": "bac-probability-experiment",
+    "title": "BAC Probability Experiment",
+    "category": "Statistics",
+    "status": "Reproducible case study",
+    "featured": true,
+    "image": "statistics_projects/bac_probability_experiment/output/charts/beers_vs_bac.svg",
+    "alt": "Beers consumed versus blood alcohol content regression chart",
+    "description": "A compact experimental-data project using OpenIntro BAC data for probability, hypothesis testing, confidence intervals, and regression.",
+    "problem": "Small experimental samples need transparent uncertainty estimates and careful interpretation.",
+    "solution": "Used bootstrap intervals, a one-sided permutation test, empirical probabilities, and simple regression to explain the beer-to-BAC relationship.",
+    "impact": "Highlights research design, random assignment context, and responsible statistical conclusions for a small sample.",
+    "technologies": [
+      "Python",
+      "Probability",
+      "Hypothesis Testing",
+      "Regression Analysis",
+      "Inferential Statistics",
+      "Research Methods"
+    ],
+    "metrics": [
+      {
+        "label": "Dataset",
+        "value": "16 volunteers"
+      },
+      {
+        "label": "Model R2",
+        "value": "0.800"
+      }
+    ],
+    "links": {
+      "demo": "statistics_projects/bac_probability_experiment/output/report.md",
+      "github": "statistics_projects/bac_probability_experiment/analyze.py"
+    }
+  },
+  {
+    "id": "insight-dashboard",
+    "title": "Insight Dashboard",
+    "category": "Data Analysis",
+    "status": "Portfolio case study",
+    "featured": true,
+    "image": "assets/images/projects/project1.svg",
+    "alt": "Dashboard project preview",
+    "description": "A dashboard concept focused on turning business data into fast, readable performance insights.",
+    "problem": "Decision makers need a clear view of trends, comparisons, and key metrics without reading long reports.",
+    "solution": "Designed a structured analytics workflow with cleaned data, KPI cards, trend visuals, and simple filtering.",
+    "impact": "Makes patterns easier to understand and supports quicker evidence-based decisions.",
+    "technologies": [
+      "Power BI",
+      "SQL",
+      "Excel",
+      "Data Cleaning",
+      "Data Visualization"
+    ],
+    "metrics": [
+      {
+        "label": "Focus",
+        "value": "KPI reporting"
+      },
+      {
+        "label": "Output",
+        "value": "Interactive dashboard"
+      }
+    ],
+    "links": {
+      "demo": "data/projects.json",
+      "github": "data/projects.json"
+    }
+  },
+  {
+    "id": "flutter-mobile-app",
+    "title": "Flutter Mobile App Concept",
+    "category": "Flutter Development",
+    "status": "Portfolio case study",
+    "featured": true,
+    "image": "assets/images/projects/project3.svg",
+    "alt": "Flutter app project preview",
+    "description": "A mobile app concept built around responsive screens, smooth navigation, and a polished user interface.",
+    "problem": "Mobile users need a clean app experience that feels fast, readable, and consistent across screen sizes.",
+    "solution": "Structured reusable Flutter widgets, responsive layouts, and simple flows for a professional mobile interface.",
+    "impact": "Improves usability and creates a strong base for a production-ready app experience.",
+    "technologies": [
+      "Flutter",
+      "Dart",
+      "Firebase",
+      "Responsive UI",
+      "REST APIs"
+    ],
+    "metrics": [
+      {
+        "label": "Focus",
+        "value": "Mobile UI"
+      },
+      {
+        "label": "Output",
+        "value": "App prototype"
+      }
+    ],
+    "links": {
+      "demo": "data/projects.json",
+      "github": "data/projects.json"
+    }
+  }
+]

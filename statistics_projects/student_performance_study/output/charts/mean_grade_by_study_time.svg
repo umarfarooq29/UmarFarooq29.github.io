@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" role="img" aria-label="Mean Grade by Study Time">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#eef2ff"/>
+<stop offset="0.55" stop-color="#f0f9ff"/>
+<stop offset="1" stop-color="#dcfce7"/>
+</linearGradient>
+</defs>
+<rect width="1200" height="750" rx="42" fill="url(#bg)"/>
+<rect x="58" y="54" width="1084" height="642" rx="34" fill="#ffffff" opacity="0.92"/>
+<text x="100.0" y="72.0" text-anchor="start" fill="#0f172a" font-family="Arial, sans-serif" font-size="34" font-weight="800">Mean Grade by Study Time</text>
+<text x="100.0" y="108.0" text-anchor="start" fill="#475569" font-family="Arial, sans-serif" font-size="22" font-weight="500">Mean final grade</text>
+<line x1="110" y1="610" x2="1130" y2="610" stroke="#cbd5e1" stroke-width="3"/>
+<line x1="110" y1="110" x2="110" y2="610" stroke="#cbd5e1" stroke-width="3"/>
+<rect x="116.0" y="237.3" width="243.0" height="372.7" rx="10" fill="#14b8a6"/>
+<text x="237.5" y="223.3" text-anchor="middle" fill="#0f172a" font-family="Arial, sans-serif" font-size="22" font-weight="700">10.84</text>
+<text x="237.5" y="644.0" text-anchor="middle" fill="#475569" font-family="Arial, sans-serif" font-size="20" font-weight="500">&lt;2h</text>
+<rect x="371.0" y="194.5" width="243.0" height="415.5" rx="10" fill="#14b8a6"/>
+<text x="492.5" y="180.5" text-anchor="middle" fill="#0f172a" font-family="Arial, sans-serif" font-size="22" font-weight="700">12.09</text>
+<text x="492.5" y="644.0" text-anchor="middle" fill="#475569" font-family="Arial, sans-serif" font-size="20" font-weight="500">2-5h</text>
+<rect x="626.0" y="155.5" width="243.0" height="454.5" rx="10" fill="#14b8a6"/>
+<text x="747.5" y="141.5" text-anchor="middle" fill="#0f172a" font-family="Arial, sans-serif" font-size="22" font-weight="700">13.23</text>
+<text x="747.5" y="644.0" text-anchor="middle" fill="#475569" font-family="Arial, sans-serif" font-size="20" font-weight="500">5-10h</text>
+<rect x="881.0" y="161.3" width="243.0" height="448.7" rx="10" fill="#14b8a6"/>
+<text x="1002.5" y="147.3" text-anchor="middle" fill="#0f172a" font-family="Arial, sans-serif" font-size="22" font-weight="700">13.06</text>
+<text x="1002.5" y="644.0" text-anchor="middle" fill="#475569" font-family="Arial, sans-serif" font-size="20" font-weight="500">&gt;10h</text>
+<text x="38.0" y="375.0" text-anchor="middle" fill="#0f172a" font-family="Arial, sans-serif" font-size="26" font-weight="700" transform="rotate(-90 38.0 375.0)">Mean final grade</text>
+</svg>

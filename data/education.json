@@ -1,0 +1,98 @@
+[
+  {
+    "id": "bs-statistics-university-of-peshawar",
+    "degree": "BS Statistics",
+    "institution": "University of Peshawar",
+    "location": "Peshawar, Pakistan",
+    "period": "2023 - 2027",
+    "status": "In progress",
+    "summary": "Currently pursuing a Bachelor of Science in Statistics with a focus on quantitative analysis, probability, statistical modeling, and data-driven problem solving.",
+    "coursework": [
+      "Statistics",
+      "Probability",
+      "Statistical Inference",
+      "Data Analysis",
+      "Research Methods"
+    ],
+    "highlights": [
+      "Building a strong foundation in statistical theory and applied analysis.",
+      "Developing skills that support data analysis, data science, and evidence-based reporting."
+    ]
+  },
+  {
+    "id": "german-language-skilled-worker-navttc",
+    "degree": "German Language Skilled Worker Level Certificate",
+    "institution": "National Vocational and Technical Training Commission (NAVTTC)",
+    "location": "Government College Peshawar, Pakistan",
+    "period": "Completed in 2025",
+    "status": "Completed",
+    "summary": "Completed German language training under the Government of Pakistan Prime Minister's Youth Skills Development Program at Government College Peshawar.",
+    "coursework": [
+      "German Language",
+      "Skilled Worker Communication",
+      "Vocational Training",
+      "Language Practice"
+    ],
+    "highlights": [
+      "Completed the skilled worker level German language certificate in 2025.",
+      "Training delivered through NAVTTC under the Prime Minister's Youth Skills Development Program."
+    ]
+  },
+  {
+    "id": "diploma-information-technology-kpk-board",
+    "degree": "Diploma in Information Technology",
+    "institution": "KPK Board of Technical and Commerce Education",
+    "location": "Khyber Pakhtunkhwa, Pakistan",
+    "period": "Completed in 2022",
+    "status": "Completed",
+    "summary": "Completed a Diploma in Information Technology through the KPK Board of Technical and Commerce Education.",
+    "coursework": [
+      "Information Technology",
+      "Computer Applications",
+      "Office Productivity",
+      "Digital Skills"
+    ],
+    "highlights": [
+      "Completed the diploma session in 2022.",
+      "Built practical IT and computer application skills."
+    ]
+  },
+  {
+    "id": "intermediate-science-wadpagga",
+    "degree": "Intermediate in Science",
+    "institution": "Government Degree College Wadpagga",
+    "location": "Peshawar, Pakistan",
+    "period": "Completed in 2022",
+    "status": "Completed",
+    "summary": "Completed intermediate education in science, strengthening academic foundations for higher study in statistics and analytics.",
+    "coursework": [
+      "Science",
+      "Mathematics",
+      "Analytical Thinking",
+      "Academic Writing"
+    ],
+    "highlights": [
+      "Completed the intermediate session in 2022.",
+      "Prepared for university-level study in statistics."
+    ]
+  },
+  {
+    "id": "secondary-school-arts-haris-nawaz",
+    "degree": "Secondary School Certificate in Arts",
+    "institution": "Government Shaheed Haris Nawaz High School",
+    "location": "Zaryab Colony, Peshawar, Pakistan",
+    "period": "Completed in 2020",
+    "status": "Completed",
+    "summary": "Completed secondary school education in Arts, building foundational communication, reasoning, and academic skills.",
+    "coursework": [
+      "Arts",
+      "Communication",
+      "Social Studies",
+      "Foundational Academics"
+    ],
+    "highlights": [
+      "Completed the secondary school session in 2020.",
+      "Built the foundation for further academic growth."
+    ]
+  }
+]

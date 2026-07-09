@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" role="img" aria-label="MPG Distribution">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#eef2ff"/>
+<stop offset="0.55" stop-color="#f0f9ff"/>
+<stop offset="1" stop-color="#dcfce7"/>
+</linearGradient>
+</defs>
+<rect width="1200" height="750" rx="42" fill="url(#bg)"/>
+<rect x="58" y="54" width="1084" height="642" rx="34" fill="#ffffff" opacity="0.92"/>
+<text x="100.0" y="72.0" text-anchor="start" fill="#0f172a" font-family="Arial, sans-serif" font-size="34" font-weight="800">MPG Distribution</text>
+<text x="100.0" y="108.0" text-anchor="start" fill="#475569" font-family="Arial, sans-serif" font-size="22" font-weight="500">Miles per gallon</text>
+<line x1="110" y1="630" x2="1130" y2="630" stroke="#cbd5e1" stroke-width="3"/>
+<line x1="110" y1="110" x2="110" y2="630" stroke="#cbd5e1" stroke-width="3"/>
+<rect x="114.0" y="513.4" width="77.0" height="116.6" rx="10" fill="#2563eb"/>
+<text x="114.0" y="664.0" text-anchor="start" fill="#475569" font-family="Arial, sans-serif" font-size="24" font-weight="500">9.0</text>
+<rect x="199.0" y="127.9" width="77.0" height="502.1" rx="10" fill="#2563eb"/>
+<rect x="284.0" y="110.0" width="77.0" height="520.0" rx="10" fill="#2563eb"/>
+<rect x="369.0" y="127.9" width="77.0" height="502.1" rx="10" fill="#2563eb"/>
+<rect x="454.0" y="217.6" width="77.0" height="412.4" rx="10" fill="#2563eb"/>
+<rect x="539.0" y="181.7" width="77.0" height="448.3" rx="10" fill="#2563eb"/>
+<rect x="624.0" y="289.3" width="77.0" height="340.7" rx="10" fill="#2563eb"/>
+<rect x="709.0" y="298.3" width="77.0" height="331.7" rx="10" fill="#2563eb"/>
+<rect x="794.0" y="414.8" width="77.0" height="215.2" rx="10" fill="#2563eb"/>
+<rect x="879.0" y="531.4" width="77.0" height="98.6" rx="10" fill="#2563eb"/>
+<rect x="964.0" y="585.2" width="77.0" height="44.8" rx="10" fill="#2563eb"/>
+<rect x="1049.0" y="594.1" width="77.0" height="35.9" rx="10" fill="#2563eb"/>
+<text x="1049.0" y="664.0" text-anchor="start" fill="#475569" font-family="Arial, sans-serif" font-size="24" font-weight="500">43.47</text>
+<text x="600.0" y="706.0" text-anchor="middle" fill="#0f172a" font-family="Arial, sans-serif" font-size="28" font-weight="700">Miles per gallon</text>
+</svg>

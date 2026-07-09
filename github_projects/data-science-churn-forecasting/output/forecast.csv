@@ -1,0 +1,7 @@
+forecast_month,expected_churned_customers,retention_program_effect
+Month 1,79.5,0.025
+Month 2,77.4,0.05
+Month 3,75.4,0.075
+Month 4,73.3,0.1
+Month 5,71.3,0.125
+Month 6,69.3,0.15

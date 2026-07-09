@@ -1,0 +1,156 @@
+:root {
+  color-scheme: light;
+
+  --primary: #2563eb;
+  --primary-light: #3b82f6;
+  --primary-dark: #1d4ed8;
+  --secondary: #0f172a;
+  --accent: #0ea5e9;
+  --accent-2: #14b8a6;
+  --success: #10b981;
+  --warning: #f59e0b;
+  --danger: #ef4444;
+
+  --page-bg: #f6f8fc;
+  --page-bg-alt: #edf4fb;
+  --background: #f6f8fc;
+  --surface: rgba(255, 255, 255, 0.82);
+  --surface-strong: #ffffff;
+  --surface-muted: #eff4fa;
+  --surface-2: #eff4fa;
+
+  --text-primary: #0f172a;
+  --text-secondary: #475569;
+  --text-muted: #64748b;
+  --text-light: #94a3b8;
+  --text: #0f172a;
+
+  --border-color: rgba(15, 23, 42, 0.08);
+  --border: rgba(15, 23, 42, 0.08);
+
+  --gradient-primary: linear-gradient(135deg, #2563eb 0%, #0ea5e9 52%, #14b8a6 100%);
+  --gradient-hero: radial-gradient(circle at top left, rgba(37, 99, 235, 0.22), transparent 35%), radial-gradient(circle at top right, rgba(20, 184, 166, 0.18), transparent 32%), linear-gradient(180deg, rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0.65));
+  --gradient-dark: linear-gradient(135deg, #020617 0%, #0f172a 100%);
+  --gradient-success: linear-gradient(135deg, #10b981 0%, #34d399 100%);
+
+  --font-heading: "Space Grotesk", "Segoe UI", sans-serif;
+  --font-body: "Plus Jakarta Sans", "Segoe UI", sans-serif;
+  --heading-font: var(--font-heading);
+  --body-font: var(--font-body);
+
+  --fs-xs: 0.75rem;
+  --fs-sm: 0.875rem;
+  --fs-md: 1rem;
+  --fs-lg: 1.125rem;
+  --fs-xl: 1.25rem;
+  --fs-2xl: 1.5rem;
+  --fs-3xl: 2rem;
+  --fs-4xl: 2.75rem;
+  --fs-5xl: 3.6rem;
+
+  --fw-light: 300;
+  --fw-normal: 400;
+  --fw-medium: 500;
+  --fw-semibold: 600;
+  --fw-bold: 700;
+  --fw-extra-bold: 800;
+
+  --space-1: 0.25rem;
+  --space-2: 0.5rem;
+  --space-3: 0.75rem;
+  --space-4: 1rem;
+  --space-5: 1.25rem;
+  --space-6: 1.5rem;
+  --space-7: 2rem;
+  --space-8: 2.5rem;
+  --space-9: 3rem;
+  --space-10: 4rem;
+  --space-11: 5rem;
+  --space-12: 6rem;
+
+  --radius-sm: 0.75rem;
+  --radius-md: 1rem;
+  --radius-lg: 1.35rem;
+  --radius-xl: 1.85rem;
+  --radius-circle: 50%;
+  --radius-pill: 999px;
+
+  --shadow-sm: 0 6px 20px rgba(15, 23, 42, 0.06);
+  --shadow-md: 0 14px 35px rgba(15, 23, 42, 0.1);
+  --shadow-lg: 0 24px 70px rgba(15, 23, 42, 0.14);
+  --shadow-primary: 0 20px 50px rgba(37, 99, 235, 0.22);
+
+  --glass-bg: rgba(255, 255, 255, 0.68);
+  --glass-border: rgba(255, 255, 255, 0.34);
+  --blur: blur(18px) saturate(1.12);
+
+  --transition-fast: 0.15s ease;
+  --transition: 0.26s ease;
+  --transition-slow: 0.42s ease;
+
+  --container-width: 1240px;
+  --navbar-height: 84px;
+  --section-padding: clamp(4.5rem, 8vw, 7rem);
+
+  --z-dropdown: 1000;
+  --z-sticky: 1020;
+  --z-fixed: 1030;
+  --z-modal: 1050;
+  --z-loader: 9999;
+}
+
+html[data-theme="dark"] {
+  color-scheme: dark;
+
+  --page-bg: #020617;
+  --page-bg-alt: #0f172a;
+  --background: #020617;
+  --surface: rgba(15, 23, 42, 0.74);
+  --surface-strong: #0f172a;
+  --surface-muted: #111827;
+  --surface-2: #111827;
+
+  --text-primary: #e2e8f0;
+  --text-secondary: #cbd5e1;
+  --text-muted: #94a3b8;
+  --text-light: #64748b;
+  --text: #e2e8f0;
+
+  --border-color: rgba(148, 163, 184, 0.12);
+  --border: rgba(148, 163, 184, 0.12);
+
+  --glass-bg: rgba(15, 23, 42, 0.72);
+  --glass-border: rgba(255, 255, 255, 0.1);
+  --gradient-hero: radial-gradient(circle at top left, rgba(37, 99, 235, 0.18), transparent 35%), radial-gradient(circle at top right, rgba(20, 184, 166, 0.16), transparent 32%), linear-gradient(180deg, rgba(15, 23, 42, 0.96), rgba(2, 6, 23, 0.85));
+
+  --shadow-sm: 0 8px 20px rgba(2, 6, 23, 0.18);
+  --shadow-md: 0 16px 38px rgba(2, 6, 23, 0.26);
+  --shadow-lg: 0 28px 72px rgba(2, 6, 23, 0.34);
+  --shadow-primary: 0 20px 50px rgba(37, 99, 235, 0.26);
+}
+
+@media (max-width: 992px) {
+  :root {
+    --fs-5xl: 3rem;
+    --fs-4xl: 2.3rem;
+    --section-padding: 5.25rem;
+  }
+}
+
+@media (max-width: 768px) {
+  :root {
+    --fs-5xl: 2.5rem;
+    --fs-4xl: 2rem;
+    --fs-3xl: 1.75rem;
+    --section-padding: 4.5rem;
+  }
+}
+
+@media (max-width: 576px) {
+  :root {
+    --fs-5xl: 2.15rem;
+    --fs-4xl: 1.8rem;
+    --fs-3xl: 1.5rem;
+    --section-padding: 4rem;
+  }
+}

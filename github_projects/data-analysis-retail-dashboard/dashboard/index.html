@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Retail Sales Analytics Dashboard</title>
+  <style>
+    body { margin: 0; font-family: Arial, sans-serif; background: #f6f8fc; color: #0f172a; }
+    main { max-width: 1120px; margin: 0 auto; padding: 40px 20px; }
+    .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 16px; }
+    .card { background: white; border: 1px solid #e2e8f0; border-radius: 14px; padding: 20px; box-shadow: 0 8px 28px rgba(15, 23, 42, .06); }
+    .metric { font-size: 32px; font-weight: 800; color: #2563eb; }
+    table { width: 100%; border-collapse: collapse; }
+    th, td { padding: 10px; border-bottom: 1px solid #e2e8f0; text-align: left; }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>Retail Sales Analytics Dashboard</h1>
+    <p>Cleaned sales data with Python, modeled through SQL, exported for Excel, Power BI, and Tableau.</p>
+    <section class="grid">
+      <div class="card"><span>Revenue</span><div class="metric">$96,222</div></div>
+      <div class="card"><span>Profit</span><div class="metric">$39,199</div></div>
+      <div class="card"><span>Orders</span><div class="metric">369</div></div>
+      <div class="card"><span>Average Order Value</span><div class="metric">$261</div></div>
+    </section>
+    <section class="grid" style="margin-top: 20px;">
+      <div class="card">
+        <h2>Top Categories</h2>
+        <table><tr><th>Category</th><th>Revenue</th><th>Profit</th></tr>
+          <tr><td>Audio</td><td>$33,732</td><td>$13,490</td></tr><tr><td>Wearables</td><td>$33,166</td><td>$13,780</td></tr><tr><td>Accessories</td><td>$18,339</td><td>$6,879</td></tr><tr><td>Office</td><td>$10,984</td><td>$5,050</td></tr>
+        </table>
+      </div>
+      <div class="card">
+        <h2>Regions</h2>
+        <table><tr><th>Region</th><th>Revenue</th><th>AOV</th></tr>
+          <tr><td>North</td><td>$26,188</td><td>$270</td></tr><tr><td>West</td><td>$25,790</td><td>$255</td></tr><tr><td>East</td><td>$25,597</td><td>$269</td></tr><tr><td>South</td><td>$18,648</td><td>$245</td></tr>
+        </table>
+      </div>
+    </section>
+  </main>
+</body>
+</html>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" role="img" aria-labelledby="title desc">
+  <title id="title">Insight dashboard preview</title>
+  <desc id="desc">Dashboard layout with charts, KPI cards, and trend lines.</desc>
+  <defs>
+    <linearGradient id="bg" x1="80" y1="52" x2="1120" y2="700" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e0f2fe"/>
+      <stop offset="1" stop-color="#ecfdf5"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="750" rx="48" fill="url(#bg)"/>
+  <rect x="90" y="86" width="1020" height="578" rx="38" fill="#ffffff" opacity="0.86"/>
+  <rect x="138" y="134" width="220" height="112" rx="26" fill="#2563eb"/>
+  <rect x="398" y="134" width="220" height="112" rx="26" fill="#0ea5e9"/>
+  <rect x="658" y="134" width="220" height="112" rx="26" fill="#14b8a6"/>
+  <rect x="138" y="306" width="450" height="288" rx="28" fill="#f8fafc"/>
+  <rect x="638" y="306" width="420" height="288" rx="28" fill="#f8fafc"/>
+  <path d="M178 530 252 460l72 38 88-126 116 88" fill="none" stroke="#2563eb" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="700" y="500" width="46" height="46" rx="12" fill="#2563eb"/>
+  <rect x="778" y="438" width="46" height="108" rx="12" fill="#0ea5e9"/>
+  <rect x="856" y="382" width="46" height="164" rx="12" fill="#14b8a6"/>
+  <rect x="934" y="340" width="46" height="206" rx="12" fill="#2563eb" opacity="0.78"/>
+</svg>

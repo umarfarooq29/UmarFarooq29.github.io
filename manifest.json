@@ -1,0 +1,61 @@
+{
+  "name": "Umar Farooq Portfolio",
+  "short_name": "Umar Farooq",
+  "description": "Professional portfolio for Umar Farooq, Statistician, Data Analyst, Data Scientist, and Flutter Developer.",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f6f8fc",
+  "theme_color": "#2563eb",
+  "lang": "en",
+  "dir": "ltr",
+  "categories": [
+    "portfolio",
+    "education",
+    "productivity"
+  ],
+  "icons": [
+    {
+      "src": "assets/images/icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/images/icons/maskable-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "View Projects",
+      "short_name": "Projects",
+      "description": "Open Umar Farooq's featured projects.",
+      "url": "./#projects",
+      "icons": [
+        {
+          "src": "assets/images/icons/icon.svg",
+          "sizes": "any",
+          "type": "image/svg+xml"
+        }
+      ]
+    },
+    {
+      "name": "Contact Umar",
+      "short_name": "Contact",
+      "description": "Open the contact section.",
+      "url": "./#contact",
+      "icons": [
+        {
+          "src": "assets/images/icons/icon.svg",
+          "sizes": "any",
+          "type": "image/svg+xml"
+        }
+      ]
+    }
+  ]
+}

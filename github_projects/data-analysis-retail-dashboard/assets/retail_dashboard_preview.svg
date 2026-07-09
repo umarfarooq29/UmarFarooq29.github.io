@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" role="img" aria-label="Retail analytics dashboard preview">
+<rect width="1200" height="750" rx="42" fill="#eef7ff"/>
+<rect x="70" y="70" width="1060" height="610" rx="30" fill="#ffffff"/>
+<text x="110" y="135" font-family="Arial" font-size="36" font-weight="800" fill="#0f172a">Retail Sales Analytics Dashboard</text>
+<text x="110" y="172" font-family="Arial" font-size="22" fill="#475569">Python cleaning, SQL metrics, Excel and BI exports</text>
+<rect x="110" y="210" width="250" height="120" rx="20" fill="#f8fafc"/>
+<text x="134" y="255" font-family="Arial" font-size="22" fill="#475569">Revenue</text>
+<text x="134" y="300" font-family="Arial" font-size="34" font-weight="800" fill="#2563eb">96,222</text>
+<rect x="410" y="210" width="250" height="120" rx="20" fill="#f8fafc"/>
+<text x="434" y="255" font-family="Arial" font-size="22" fill="#475569">Profit</text>
+<text x="434" y="300" font-family="Arial" font-size="34" font-weight="800" fill="#2563eb">39,199</text>
+<rect x="710" y="210" width="250" height="120" rx="20" fill="#f8fafc"/>
+<text x="734" y="255" font-family="Arial" font-size="22" fill="#475569">Orders</text>
+<text x="734" y="300" font-family="Arial" font-size="34" font-weight="800" fill="#2563eb">369</text>
+<rect x="110" y="390" width="760" height="210" rx="22" fill="#f8fafc"/>
+<rect x="140.0" y="496.0" width="48.3" height="74.0" rx="8" fill="#14b8a6"/>
+<rect x="198.3" y="519.0" width="48.3" height="51.0" rx="8" fill="#14b8a6"/>
+<rect x="256.7" y="505.8" width="48.3" height="64.2" rx="8" fill="#14b8a6"/>
+<rect x="315.0" y="455.0" width="48.3" height="115.0" rx="8" fill="#14b8a6"/>
+<rect x="373.3" y="463.6" width="48.3" height="106.4" rx="8" fill="#14b8a6"/>
+<rect x="431.7" y="459.4" width="48.3" height="110.6" rx="8" fill="#14b8a6"/>
+<rect x="490.0" y="480.0" width="48.3" height="90.0" rx="8" fill="#14b8a6"/>
+<rect x="548.3" y="469.0" width="48.3" height="101.0" rx="8" fill="#14b8a6"/>
+<rect x="606.7" y="459.3" width="48.3" height="110.7" rx="8" fill="#14b8a6"/>
+<rect x="665.0" y="420.0" width="48.3" height="150.0" rx="8" fill="#14b8a6"/>
+<rect x="723.3" y="485.9" width="48.3" height="84.1" rx="8" fill="#14b8a6"/>
+<rect x="781.7" y="421.9" width="48.3" height="148.1" rx="8" fill="#14b8a6"/>
+<text x="140" y="635" font-family="Arial" font-size="22" font-weight="700" fill="#0f172a">Monthly revenue trend</text>
+<rect x="900" y="390" width="180" height="210" rx="22" fill="#f8fafc"/>
+<circle cx="930" cy="435" r="10" fill="#2563eb"/>
+<text x="950" y="442" font-family="Arial" font-size="20" fill="#0f172a">Audio</text>
+<circle cx="930" cy="473" r="10" fill="#2563eb"/>
+<text x="950" y="480" font-family="Arial" font-size="20" fill="#0f172a">Wearables</text>
+<circle cx="930" cy="511" r="10" fill="#2563eb"/>
+<text x="950" y="518" font-family="Arial" font-size="20" fill="#0f172a">Accessories</text>
+<circle cx="930" cy="549" r="10" fill="#2563eb"/>
+<text x="950" y="556" font-family="Arial" font-size="20" fill="#0f172a">Office</text>
+</svg>

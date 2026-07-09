@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" role="img" aria-label="Churn model evaluation and forecast preview">
+<rect width="1200" height="750" rx="42" fill="#eef2ff"/>
+<rect x="70" y="70" width="1060" height="610" rx="30" fill="#ffffff"/>
+<text x="110" y="135" font-family="Arial" font-size="36" font-weight="800" fill="#0f172a">Customer Churn ML and Forecasting</text>
+<text x="110" y="172" font-family="Arial" font-size="22" fill="#475569">Model evaluation, churn scoring, and six-month forecast</text>
+<rect x="110" y="230" width="520" height="370" rx="24" fill="#f8fafc"/>
+<text x="145" y="282" font-family="Arial" font-size="24" font-weight="700" fill="#0f172a">Evaluation Metrics</text>
+<text x="145" y="325" font-family="Arial" font-size="20" fill="#475569">Accuracy</text>
+<rect x="280" y="303" width="191.8" height="24" rx="12" fill="#2563eb"/>
+<text x="560" y="325" font-family="Arial" font-size="20" font-weight="700" fill="#0f172a">0.74</text>
+<text x="145" y="373" font-family="Arial" font-size="20" fill="#475569">Precision</text>
+<rect x="280" y="351" width="200.0" height="24" rx="12" fill="#2563eb"/>
+<text x="560" y="373" font-family="Arial" font-size="20" font-weight="700" fill="#0f172a">0.77</text>
+<text x="145" y="421" font-family="Arial" font-size="20" fill="#475569">Recall</text>
+<rect x="280" y="399" width="201.6" height="24" rx="12" fill="#2563eb"/>
+<text x="560" y="421" font-family="Arial" font-size="20" font-weight="700" fill="#0f172a">0.78</text>
+<text x="145" y="469" font-family="Arial" font-size="20" fill="#475569">F1</text>
+<rect x="280" y="447" width="200.8" height="24" rx="12" fill="#2563eb"/>
+<text x="560" y="469" font-family="Arial" font-size="20" font-weight="700" fill="#0f172a">0.77</text>
+<text x="145" y="517" font-family="Arial" font-size="20" fill="#475569">AUC</text>
+<rect x="280" y="495" width="198.7" height="24" rx="12" fill="#2563eb"/>
+<text x="560" y="517" font-family="Arial" font-size="20" font-weight="700" fill="#0f172a">0.76</text>
+<rect x="675" y="230" width="405" height="370" rx="24" fill="#f8fafc"/>
+<text x="710" y="282" font-family="Arial" font-size="24" font-weight="700" fill="#0f172a">Forecast</text>
+<circle cx="725" cy="340.0" r="9" fill="#14b8a6"/>
+<circle cx="783" cy="345.5" r="9" fill="#14b8a6"/>
+<line x1="725" y1="340.0" x2="783" y2="345.5" stroke="#14b8a6" stroke-width="5"/>
+<circle cx="841" cy="350.8" r="9" fill="#14b8a6"/>
+<line x1="783" y1="345.5" x2="841" y2="350.8" stroke="#14b8a6" stroke-width="5"/>
+<circle cx="899" cy="356.4" r="9" fill="#14b8a6"/>
+<line x1="841" y1="350.8" x2="899" y2="356.4" stroke="#14b8a6" stroke-width="5"/>
+<circle cx="957" cy="361.7" r="9" fill="#14b8a6"/>
+<line x1="899" y1="356.4" x2="957" y2="361.7" stroke="#14b8a6" stroke-width="5"/>
+<circle cx="1015" cy="366.9" r="9" fill="#14b8a6"/>
+<line x1="957" y1="361.7" x2="1015" y2="366.9" stroke="#14b8a6" stroke-width="5"/>
+</svg>
